@@ -1,0 +1,22 @@
+{
+    "lawn_suit": {
+        "name": "Embroidered Lawn Suit (3-Piece)",
+        "price": 4500,
+        "stock": 5
+    },
+    "cotton_kurti": {
+        "name": "Cotton Printed Kurti",
+        "price": 2200,
+        "stock": 8
+    },
+    "chiffon_dupatta": {
+        "name": "Chiffon Festive Dupatta",
+        "price": 1800,
+        "stock": 2
+    },
+    "mens_suit": {
+        "name": "Men's Wash & Wear Suit",
+        "price": 3800,
+        "stock": 0
+    }
+}
